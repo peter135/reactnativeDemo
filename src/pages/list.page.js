@@ -10,31 +10,38 @@ import { Actions } from 'react-native-router-flux'
 
 let videolist = [{image:require('../assets/img/top_icon.png'),
                   detail:'测试详情，测试详情，测试详情，测试详情',
-                  date:'2020/01/23'
+                  date:'2020/01/23',
+                  video:'http://vfx.mtime.cn/Video/2019/02/04/mp4/190204084208765161.mp4'
                   },
                   {image:require('../assets/img/top_icon.png'),
                   detail:'测试详情，测试详情，测试详情，测试详情',
-                  date:'2020/01/23'
+                  date:'2020/01/23',
+                  video:'http://vfx.mtime.cn/Video/2019/02/04/mp4/190204084208765161.mp4'
                   },
                   {image:require('../assets/img/top_icon.png'),
                   detail:'测试详情，测试详情，测试详情，测试详情',
-                  date:'2020/01/23'
+                  date:'2020/01/23',
+                  video:'http://vfx.mtime.cn/Video/2019/02/04/mp4/190204084208765161.mp4'
                   },
                   {image:require('../assets/img/top_icon.png'),
                   detail:'测试详情，测试详情，测试详情，测试详情',
-                  date:'2020/01/23'
+                  date:'2020/01/23',
+                  video:'http://vfx.mtime.cn/Video/2019/02/04/mp4/190204084208765161.mp4'
                   },
                   {image:require('../assets/img/top_icon.png'),
                   detail:'测试详情，测试详情，测试详情，测试详情',
-                  date:'2020/01/23'
+                  date:'2020/01/23',
+                  video:'http://vfx.mtime.cn/Video/2019/02/04/mp4/190204084208765161.mp4'
                   },
                   {image:require('../assets/img/top_icon.png'),
                   detail:'测试详情，测试详情，测试详情，测试详情',
-                  date:'2020/01/23'
+                  date:'2020/01/23',
+                  video:'http://vfx.mtime.cn/Video/2019/02/04/mp4/190204084208765161.mp4'
                   },
                   {image:require('../assets/img/top_icon.png'),
                   detail:'测试详情，测试详情，测试详情，测试详情',
-                  date:'2020/01/23'
+                  date:'2020/01/23',
+                  video:'http://vfx.mtime.cn/Video/2019/02/04/mp4/190204084208765161.mp4'
                   }]
 
 export class ListPage extends React.Component{
